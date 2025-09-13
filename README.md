@@ -1,6 +1,6 @@
 # AgriChain-QA-Assignment-
 
-This is an updated, fresh attempt at solving the assignment questions. I have branched this to store the newer solutions.
+This is an updated, fresh attempt at solving the assignment questions. I have branched out the original solution.
 
 1) The solution to the first question is uploaded under a .py file named "Ques1 nested.py" and 'Ques1 sliding window.py". The first solution is written entirely without much or any help and ends up using a brute force solution, as for the second attempt towards the same question, I dive into understanding the sliding window method and resulting in writing the second solution.
  
